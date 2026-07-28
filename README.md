@@ -40,9 +40,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="mailto:naveedqasim608@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
 
 <a href="https://www.linkedin.com/in/muhammad-naveed-qasim-7760573a8/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -157,19 +155,7 @@
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=naveed-qasim608&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=naveed-qasim608&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-qasim608&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
