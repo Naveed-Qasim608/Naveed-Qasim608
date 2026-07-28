@@ -2,9 +2,6 @@
 <img src="assets/github-banner.png" width="100%">
 </p>
 
-<h1 align="center">
-Hi 👋, I'm Muhammad Naveed Qasim
-</h1>
 
 <h1 align="center">Hi 👋, I'm Muhammad Naveed Qasim</h1>
 
@@ -164,21 +161,11 @@ Hi 👋, I'm Muhammad Naveed Qasim
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naveed-Qasim608&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=naveed-qasim608&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=Naveed-Qasim608&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=naveed-qasim608&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveed-Qasim608&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Naveed-Qasim608&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-qasim608&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -233,26 +220,3 @@ Feel free to connect with me!
 ⭐ Building intelligent systems that solve real-world problems through Artificial Intelligence.
 
 </h3>
-
-
-## Hi there 👋
-
-<!--
-**Naveed-Qasim608/Naveed-Qasim608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
